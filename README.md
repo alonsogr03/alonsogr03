@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy **Alonso González Romero**
 
 🎓 **Graduado en Matemáticas** por la Universidad Rey Juan Carlos (URJC).  
-📊 Calificación de **10 en el TFG** y propuesto para *Matrícula de Honor*.  
+📊 Calificación de **10 en el TFG** y propuesto para *Matrícula de Honor*. "Una doble perspectiva para el análisis y la visualización de estrategias de carrera en natación: Clustering estático y dinámico. 
 🎯 Actualmente cursando el **Máster en Análisis de Datos Deportivos (MUSA - URJC)**.  
 
 ---
@@ -27,8 +27,6 @@
 ### 🏊 **SwimData Spain**
 Proyecto personal en desarrollo para el análisis avanzado del rendimiento en natación mediante datos abiertos.  
 Incluye dashboards interactivos en R (Shiny), algoritmos de *clustering* y visualizaciones de estrategias de carrera.
-
-Enlace: ![SwimData Spain](https://github.com/alonsogr03/SwimData-Spain)
 
 ### 🎓 **Proyectos del Máster MUSA**
 Repositorios dedicados a prácticas y proyectos del Máster en Análisis de Datos Deportivos (URJC), centrados en aprendizaje automático, modelización y análisis aplicado al deporte.
