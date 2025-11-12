@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy **Alonso González Romero**
 
 🎓 **Graduado en Matemáticas** por la Universidad Rey Juan Carlos (URJC).  
-📊 Calificación de **10 en el TFG** y propuesto para *Matrícula de Honor*. "Una doble perspectiva para el análisis y la visualización de estrategias de carrera en natación: Clustering estático y dinámico. 
+📊 Calificación de *Matrícula de Honor* en el Trabajo de Fin de Grado. "Una doble perspectiva para el análisis y la visualización de estrategias de carrera en natación: Clustering estático y dinámico. 
 🎯 Actualmente cursando el **Máster en Análisis de Datos Deportivos (MUSA - URJC)**.  
 
 ---
