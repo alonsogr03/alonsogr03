@@ -48,8 +48,9 @@ Mi meta es evolucionar hacia un perfil integral en **Data Science**, desde la ex
 ---
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=alonsogr03&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsogr03&layout=compact&theme=transparent&hide_border=true" height="150" alt="Lenguajes más usados" />
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alonsogr03&show_icons=true&theme=transparent&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alonsogr03&layout=compact&theme=transparent&hide_border=true)
 
 </div>
