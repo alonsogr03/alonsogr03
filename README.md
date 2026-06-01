@@ -60,7 +60,7 @@ Arquitectura integral de datos y modelado avanzado para el análisis del rendimi
 *   Desarrollo *from scratch* de un algoritmo de **Random Forest** con validación cruzada para optimizar hiperparámetros y predecir el riesgo de rotura física ("el muro") en maratonianos.
 *   Entrenamiento de modelos de **Regresión Lineal Múltiple** evaluando interacciones de variables para proyectar con alta precisión los tiempos finales de maratón basándose en los parciales hasta el kilómetro 35.
 
-###  [TFG: Clustering Dinámico y Análisis de Pacing]([#](https://github.com/alonsogr03/TFG-Documentos))
+###  [TFG: Clustering Dinámico y Análisis de Pacing](https://github.com/alonsogr03/TFG-Documentos)
 *Matrícula de Honor.* Implementación de una nueva aproximación para algoritmos de *clustering* en *streaming* y análisis de estrategias de carrera en nadadores utilizando **K-Means** y **distancia DTW**.
 
 ###  [Proyectos del Máster MUSA](#)
