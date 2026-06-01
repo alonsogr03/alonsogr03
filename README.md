@@ -1,56 +1,71 @@
-# 👋 ¡Hola! Soy **Alonso González Romero**
-
-🎓 **Graduado en Matemáticas** por la Universidad Rey Juan Carlos (URJC).  
-📊 Calificación de *Matrícula de Honor* en el Trabajo de Fin de Grado: "Una doble perspectiva para el análisis y la visualización de estrategias de carrera en natación: Clustering estático y dinámico".  
-🎯 Actualmente cursando el **Máster en Análisis de Datos Deportivos (MUSA - URJC)**.  
-
----
-
-## 🧠 Áreas de especialización
-- Ciencia de Datos  
-- Machine Learning / Inteligencia Artificial  
-- Estadística Aplicada  
-- Análisis de Rendimiento Deportivo  
+<div align="center">
+  <h1> ¡Hola! Soy Alonso González Romero</h1>
+  <h3><i>Data Scientist & AI Specialist en Sports Analytics</i></h3>
+</div>
 
 ---
 
-## 💻 Tecnologías y herramientas
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![NoSQL / MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+ **Graduado en Matemáticas** por la Universidad Rey Juan Carlos (URJC) | **Matrícula de Honor en TFG**.  
+ Especializándome con el **Máster en Análisis de Datos Deportivos (MUSA - URJC)**.
+
+Mi objetivo es combinar la **matemática aplicada**, la **Inteligencia Artificial** y la **Ingeniería de Datos** para aportar ventajas competitivas en el ámbito deportivo. Busco desarrollarme como un perfil integral (Full-Stack Data Scientist), abarcando desde la arquitectura e ingesta de datos y el diseño de agentes LLM, hasta la modelización y visualización interactiva.
 
 ---
 
-## 📂 Proyectos y Portfolio
-
-### 🏊 **TFM: SwimData Spain**
-Proyecto en desarrollo para el análisis avanzado del rendimiento en natación mediante datos abiertos.  
-El objetivo principal es realizar **análisis longitudinales** de la evolución de los nadadores utilizando herramientas de **Inteligencia Artificial**. Para gestionar eficientemente esta información, se construirá una **base de datos documental utilizando MongoDB**. El proyecto se complementa con dashboards interactivos en R (Shiny), algoritmos de *clustering* y visualizaciones de estrategias de carrera.
-
-### 🎓 **Proyectos del Máster MUSA**
-Repositorios dedicados a prácticas y proyectos del Máster en Análisis de Datos Deportivos (URJC), centrados en aprendizaje automático, modelización y análisis aplicado al deporte.
+## 🧠 Áreas de Especialización
+-  **IA Generativa & Sistemas Multi-Agente** (LLMs, LangGraph)
+-  **Ingeniería de Datos & Big Data** (Spark, Kafka)
+-  **Ciencia de Datos & Estadística Aplicada** (Clustering, DTW, ML Predictivo)
+-  **Análisis de Rendimiento Deportivo (Sports Analytics)**
 
 ---
 
-## 🧩 Objetivo profesional
-Combinar la **matemática aplicada**, el **análisis de datos** y la **Inteligencia Artificial** para aportar conocimiento útil en el ámbito deportivo y científico.  
-Mi meta es evolucionar hacia un perfil integral en **Data Science**, desde la extracción y diseño de bases de datos (SQL/NoSQL), hasta la modelización y comunicación de resultados mediante visualización y aplicaciones interactivas.
+## 💻 Stack Tecnológico
+
+**IA, LLMs & Machine Learning** <br>
+<img src="https://img.shields.io/badge/LangGraph-005073?style=for-the-badge&logo=openai&logoColor=white" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LLMs_%26_GenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GenAI" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+
+**Data Engineering & Big Data** <br>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+
+**Data Viz & BI** <br>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Shiny-004D40?style=for-the-badge&logo=r&logoColor=white" alt="Shiny" />
+
+---
+
+## 📂 Proyectos Destacados
+
+### 🏊 [TFM: SwimData Spain](#) *(En desarrollo)*
+Arquitectura integral de datos y modelado avanzado para el análisis del rendimiento en natación, implementando un flujo *end-to-end* automatizado:
+*   **Extracción y NLP (Generative AI):** Uso de **LLMs** para extraer datos estructurados (JSON) a partir de reportes y textos deportivos no estructurados.
+*   **Almacenamiento Documental:** Ingesta y gestión de la información procesada utilizando **MongoDB** para una alta escalabilidad y flexibilidad.
+*   **Machine Learning Avanzado:** Implementación de **Clustering Simbólico** para descubrir patrones ocultos y agrupar a los nadadores en función de sus resultados obtenidos y perfiles de rendimiento histórico.
+
+### 🥇 [TFG: Clustering Dinámico y Análisis de Pacing](#)
+*Matrícula de Honor.* Implementación de una nueva aproximación para algoritmos de *clustering* en *streaming* y análisis de estrategias de carrera en nadadores utilizando **K-Means** y **distancia DTW**.
+
+### 🎓 [Proyectos del Máster MUSA](#)
+Colección de repositorios enfocados en trabajos realizados en el propio máster.
 
 ---
 
 ## 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonsogr03)
+<div align="center">
+  <a href="https://www.linkedin.com/in/alonsogr03"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alonsogonro@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
-📍 Móstoles (España)
+<br>
 
----
 
 <div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=alonsogr03&show_icons=true&theme=transparent&hide_border=true)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=alonsogr03&layout=compact&theme=transparent&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=alonsogr03&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alonsogr03&layout=compact&theme=transparent&hide_border=true" alt="Lenguajes más usados" />
 </div>
