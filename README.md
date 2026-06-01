@@ -44,7 +44,7 @@ Mi objetivo es combinar la **matemática aplicada**, la **Inteligencia Artificia
 
 ## 📂 Proyectos Destacados
 
-### 🎙️ [Sistema de Narración de Carreras en Tiempo Real con IA y Streaming](https://github.com/alonsogr03/narrador-carreras)
+### 🎙️ [Sistema de Narración de Carreras en Tiempo Real con IA y Streaming](https://github.com/alonsogr03/narrador-carreras-atletismo)
 Arquitectura *end-to-end* orquestada en **Docker** para procesar telemetría deportiva en directo y generar comentarios automáticos:
 *   **Ingesta y Procesamiento Stateful:** Simulación de datos de carrera en directo vía **Kafka**, consumidos por **Apache Spark**. Diseño de dos tuberías paralelas: una para calcular y persistir el último parcial de un corredor específico usando gestión de estados, y otra que utiliza *timeouts* de 5s para calcular grupos de carrera y roturas (escapadas), enviando las actualizaciones a una base de datos ligera.
 *   **Sistema Multi-Agente:** Interfaz en **Streamlit** que realiza *polling* a la BBDD cada 3s y envía las nuevas métricas a dos agentes LLM concurrentes (uno de flujo lineal y otro condicional).
